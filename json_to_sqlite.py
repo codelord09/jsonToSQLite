@@ -1,3 +1,5 @@
+"""Cursor Command to generate diagram.md : Create diagrams in markdown using mermaid fenced code blocks:"""
+
 import json
 import sqlite3
 from typing import Dict, List
