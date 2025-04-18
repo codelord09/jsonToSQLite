@@ -1,0 +1,574 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Great Gatsby",
+            "author": {
+                "name": "F. Scott Fitzgerald",
+                "birth_year": 1896,
+                "nationality": "American"
+            },
+            "publication_year": 1925,
+            "genres": [
+                "Fiction",
+                "Classic",
+                "Literary"
+            ],
+            "ratings": {
+                "goodreads": 3.93,
+                "amazon": 4.2
+            }
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": {
+                "name": "George Orwell",
+                "birth_year": 1903,
+                "nationality": "British"
+            },
+            "publication_year": 1949,
+            "genres": [
+                "Dystopian",
+                "Science Fiction",
+                "Classic"
+            ],
+            "ratings": {
+                "goodreads": 4.19,
+                "amazon": 4.5
+            }
+        },
+        {
+            "id": 3,
+            "title": "To Kill a Mockingbird",
+            "author": {
+                "name": "Harper Lee",
+                "birth_year": 1926,
+                "nationality": "American"
+            },
+            "publication_year": 1960,
+            "genres": [
+                "Fiction",
+                "Classic",
+                "Historical Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.27,
+                "amazon": 4.7
+            }
+        },
+        {
+            "id": 4,
+            "title": "Pride and Prejudice",
+            "author": {
+                "name": "Jane Austen",
+                "birth_year": 1775,
+                "nationality": "British"
+            },
+            "publication_year": 1813,
+            "genres": [
+                "Romance",
+                "Classic",
+                "Historical Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.28,
+                "amazon": 4.6
+            }
+        },
+        {
+            "id": 5,
+            "title": "The Hobbit",
+            "author": {
+                "name": "J.R.R. Tolkien",
+                "birth_year": 1892,
+                "nationality": "British"
+            },
+            "publication_year": 1937,
+            "genres": [
+                "Fantasy",
+                "Adventure",
+                "Classic"
+            ],
+            "ratings": {
+                "goodreads": 4.28,
+                "amazon": 4.7
+            }
+        },
+        {
+            "id": 6,
+            "title": "The Catcher in the Rye",
+            "author": {
+                "name": "J.D. Salinger",
+                "birth_year": 1919,
+                "nationality": "American"
+            },
+            "publication_year": 1951,
+            "genres": [
+                "Fiction",
+                "Classic",
+                "Coming of Age"
+            ],
+            "ratings": {
+                "goodreads": 3.81,
+                "amazon": 4.0
+            }
+        },
+        {
+            "id": 7,
+            "title": "The Lord of the Rings",
+            "author": {
+                "name": "J.R.R. Tolkien",
+                "birth_year": 1892,
+                "nationality": "British"
+            },
+            "publication_year": 1954,
+            "genres": [
+                "Fantasy",
+                "Adventure",
+                "Classic"
+            ],
+            "ratings": {
+                "goodreads": 4.52,
+                "amazon": 4.8
+            }
+        },
+        {
+            "id": 8,
+            "title": "Crime and Punishment",
+            "author": {
+                "name": "Fyodor Dostoevsky",
+                "birth_year": 1821,
+                "nationality": "Russian"
+            },
+            "publication_year": 1866,
+            "genres": [
+                "Classic",
+                "Psychological Fiction",
+                "Philosophical"
+            ],
+            "ratings": {
+                "goodreads": 4.24,
+                "amazon": 4.5
+            }
+        },
+        {
+            "id": 9,
+            "title": "The Brothers Karamazov",
+            "author": {
+                "name": "Fyodor Dostoevsky",
+                "birth_year": 1821,
+                "nationality": "Russian"
+            },
+            "publication_year": 1880,
+            "genres": [
+                "Classic",
+                "Philosophical",
+                "Psychological Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.33,
+                "amazon": 4.6
+            }
+        },
+        {
+            "id": 10,
+            "title": "One Hundred Years of Solitude",
+            "author": {
+                "name": "Gabriel García Márquez",
+                "birth_year": 1927,
+                "nationality": "Colombian"
+            },
+            "publication_year": 1967,
+            "genres": [
+                "Magical Realism",
+                "Classic",
+                "Literary Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.09,
+                "amazon": 4.3
+            }
+        },
+        {
+            "id": 11,
+            "title": "The Alchemist",
+            "author": {
+                "name": "Paulo Coelho",
+                "birth_year": 1947,
+                "nationality": "Brazilian"
+            },
+            "publication_year": 1988,
+            "genres": [
+                "Fiction",
+                "Fantasy",
+                "Philosophical"
+            ],
+            "ratings": {
+                "goodreads": 3.91,
+                "amazon": 4.2
+            }
+        },
+        {
+            "id": 12,
+            "title": "The Kite Runner",
+            "author": {
+                "name": "Khaled Hosseini",
+                "birth_year": 1965,
+                "nationality": "Afghan-American"
+            },
+            "publication_year": 2003,
+            "genres": [
+                "Historical Fiction",
+                "Drama",
+                "Literary Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.30,
+                "amazon": 4.6
+            }
+        },
+        {
+            "id": 13,
+            "title": "The Book Thief",
+            "author": {
+                "name": "Markus Zusak",
+                "birth_year": 1975,
+                "nationality": "Australian"
+            },
+            "publication_year": 2005,
+            "genres": [
+                "Historical Fiction",
+                "Young Adult",
+                "Drama"
+            ],
+            "ratings": {
+                "goodreads": 4.38,
+                "amazon": 4.7
+            }
+        },
+        {
+            "id": 14,
+            "title": "The Handmaid's Tale",
+            "author": {
+                "name": "Margaret Atwood",
+                "birth_year": 1939,
+                "nationality": "Canadian"
+            },
+            "publication_year": 1985,
+            "genres": [
+                "Dystopian",
+                "Science Fiction",
+                "Feminist"
+            ],
+            "ratings": {
+                "goodreads": 4.14,
+                "amazon": 4.4
+            }
+        },
+        {
+            "id": 15,
+            "title": "The Road",
+            "author": {
+                "name": "Cormac McCarthy",
+                "birth_year": 1933,
+                "nationality": "American"
+            },
+            "publication_year": 2006,
+            "genres": [
+                "Post-Apocalyptic",
+                "Dystopian",
+                "Literary Fiction"
+            ],
+            "ratings": {
+                "goodreads": 3.97,
+                "amazon": 4.2
+            }
+        },
+        {
+            "id": 16,
+            "title": "The Name of the Wind",
+            "author": {
+                "name": "Patrick Rothfuss",
+                "birth_year": 1973,
+                "nationality": "American"
+            },
+            "publication_year": 2007,
+            "genres": [
+                "Fantasy",
+                "Adventure",
+                "Epic Fantasy"
+            ],
+            "ratings": {
+                "goodreads": 4.54,
+                "amazon": 4.8
+            }
+        },
+        {
+            "id": 17,
+            "title": "The Night Circus",
+            "author": {
+                "name": "Erin Morgenstern",
+                "birth_year": 1978,
+                "nationality": "American"
+            },
+            "publication_year": 2011,
+            "genres": [
+                "Fantasy",
+                "Magical Realism",
+                "Romance"
+            ],
+            "ratings": {
+                "goodreads": 4.03,
+                "amazon": 4.3
+            }
+        },
+        {
+            "id": 18,
+            "title": "The Goldfinch",
+            "author": {
+                "name": "Donna Tartt",
+                "birth_year": 1963,
+                "nationality": "American"
+            },
+            "publication_year": 2013,
+            "genres": [
+                "Literary Fiction",
+                "Coming of Age",
+                "Drama"
+            ],
+            "ratings": {
+                "goodreads": 3.92,
+                "amazon": 4.1
+            }
+        },
+        {
+            "id": 19,
+            "title": "The Martian",
+            "author": {
+                "name": "Andy Weir",
+                "birth_year": 1972,
+                "nationality": "American"
+            },
+            "publication_year": 2011,
+            "genres": [
+                "Science Fiction",
+                "Adventure",
+                "Space"
+            ],
+            "ratings": {
+                "goodreads": 4.41,
+                "amazon": 4.7
+            }
+        },
+        {
+            "id": 20,
+            "title": "The Silent Patient",
+            "author": {
+                "name": "Alex Michaelides",
+                "birth_year": 1977,
+                "nationality": "Cypriot-British"
+            },
+            "publication_year": 2019,
+            "genres": [
+                "Psychological Thriller",
+                "Mystery",
+                "Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.20,
+                "amazon": 4.5
+            }
+        },
+        {
+            "id": 21,
+            "title": "Norwegian Wood",
+            "author": {
+                "name": "Haruki Murakami",
+                "birth_year": 1949,
+                "nationality": "Japanese"
+            },
+            "publication_year": 1987,
+            "genres": [
+                "Literary Fiction",
+                "Contemporary",
+                "Romance"
+            ],
+            "ratings": {
+                "goodreads": 4.01,
+                "amazon": 4.3
+            }
+        },
+        {
+            "id": 22,
+            "title": "The Wind-Up Bird Chronicle",
+            "author": {
+                "name": "Haruki Murakami",
+                "birth_year": 1949,
+                "nationality": "Japanese"
+            },
+            "publication_year": 1994,
+            "genres": [
+                "Magical Realism",
+                "Literary Fiction",
+                "Surrealism"
+            ],
+            "ratings": {
+                "goodreads": 4.17,
+                "amazon": 4.4
+            }
+        },
+        {
+            "id": 23,
+            "title": "The Shadow of the Wind",
+            "author": {
+                "name": "Carlos Ruiz Zafón",
+                "birth_year": 1964,
+                "nationality": "Spanish"
+            },
+            "publication_year": 2001,
+            "genres": [
+                "Mystery",
+                "Historical Fiction",
+                "Gothic"
+            ],
+            "ratings": {
+                "goodreads": 4.27,
+                "amazon": 4.6
+            }
+        },
+        {
+            "id": 24,
+            "title": "The Pillars of the Earth",
+            "author": {
+                "name": "Ken Follett",
+                "birth_year": 1949,
+                "nationality": "British"
+            },
+            "publication_year": 1989,
+            "genres": [
+                "Historical Fiction",
+                "Medieval",
+                "Drama"
+            ],
+            "ratings": {
+                "goodreads": 4.33,
+                "amazon": 4.6
+            }
+        },
+        {
+            "id": 25,
+            "title": "The Girl with the Dragon Tattoo",
+            "author": {
+                "name": "Stieg Larsson",
+                "birth_year": 1954,
+                "nationality": "Swedish"
+            },
+            "publication_year": 2005,
+            "genres": [
+                "Mystery",
+                "Thriller",
+                "Crime"
+            ],
+            "ratings": {
+                "goodreads": 4.15,
+                "amazon": 4.4
+            }
+        },
+        {
+            "id": 26,
+            "title": "The Da Vinci Code",
+            "author": {
+                "name": "Dan Brown",
+                "birth_year": 1964,
+                "nationality": "American"
+            },
+            "publication_year": 2003,
+            "genres": [
+                "Mystery",
+                "Thriller",
+                "Adventure"
+            ],
+            "ratings": {
+                "goodreads": 3.88,
+                "amazon": 4.1
+            }
+        },
+        {
+            "id": 27,
+            "title": "The Help",
+            "author": {
+                "name": "Kathryn Stockett",
+                "birth_year": 1969,
+                "nationality": "American"
+            },
+            "publication_year": 2009,
+            "genres": [
+                "Historical Fiction",
+                "Drama",
+                "Southern Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.47,
+                "amazon": 4.8
+            }
+        },
+        {
+            "id": 28,
+            "title": "The Time Traveler's Wife",
+            "author": {
+                "name": "Audrey Niffenegger",
+                "birth_year": 1963,
+                "nationality": "American"
+            },
+            "publication_year": 2003,
+            "genres": [
+                "Science Fiction",
+                "Romance",
+                "Fantasy"
+            ],
+            "ratings": {
+                "goodreads": 3.98,
+                "amazon": 4.2
+            }
+        },
+        {
+            "id": 29,
+            "title": "The Secret History",
+            "author": {
+                "name": "Donna Tartt",
+                "birth_year": 1963,
+                "nationality": "American"
+            },
+            "publication_year": 1992,
+            "genres": [
+                "Mystery",
+                "Literary Fiction",
+                "Psychological Fiction"
+            ],
+            "ratings": {
+                "goodreads": 4.18,
+                "amazon": 4.4
+            }
+        },
+        {
+            "id": 30,
+            "title": "The Song of Achilles",
+            "author": {
+                "name": "Madeline Miller",
+                "birth_year": 1978,
+                "nationality": "American"
+            },
+            "publication_year": 2011,
+            "genres": [
+                "Historical Fiction",
+                "Mythology",
+                "Romance"
+            ],
+            "ratings": {
+                "goodreads": 4.35,
+                "amazon": 4.6
+            }
+        }
+    ]
+}

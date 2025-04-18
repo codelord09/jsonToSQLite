@@ -1,0 +1,100 @@
+2025-04-18 15:40:26,594 - book_db_logger - INFO - Reading JSON data from sample_data.json
+2025-04-18 15:40:26,595 - book_db_logger - INFO - Successfully loaded 30 books from JSON
+2025-04-18 15:40:26,595 - book_db_logger - INFO - Connecting to SQLite database
+2025-04-18 15:40:26,599 - book_db_logger - INFO - Creating database tables
+2025-04-18 15:40:26,600 - book_db_logger - INFO - Successfully created books table
+2025-04-18 15:40:26,600 - book_db_logger - INFO - Starting book insertion process
+2025-04-18 15:40:26,606 - book_db_logger - DEBUG - Successfully inserted book: The Great Gatsby
+2025-04-18 15:40:26,607 - book_db_logger - INFO - Inserted book: The Great Gatsby
+2025-04-18 15:40:26,611 - book_db_logger - DEBUG - Successfully inserted book: 1984
+2025-04-18 15:40:26,611 - book_db_logger - INFO - Inserted book: 1984
+2025-04-18 15:40:26,614 - book_db_logger - DEBUG - Successfully inserted book: To Kill a Mockingbird
+2025-04-18 15:40:26,614 - book_db_logger - INFO - Inserted book: To Kill a Mockingbird
+2025-04-18 15:40:26,617 - book_db_logger - DEBUG - Successfully inserted book: Pride and Prejudice
+2025-04-18 15:40:26,618 - book_db_logger - INFO - Inserted book: Pride and Prejudice
+2025-04-18 15:40:26,621 - book_db_logger - DEBUG - Successfully inserted book: The Hobbit
+2025-04-18 15:40:26,622 - book_db_logger - INFO - Inserted book: The Hobbit
+2025-04-18 15:40:26,626 - book_db_logger - DEBUG - Successfully inserted book: The Catcher in the Rye
+2025-04-18 15:40:26,626 - book_db_logger - INFO - Inserted book: The Catcher in the Rye
+2025-04-18 15:40:26,629 - book_db_logger - DEBUG - Successfully inserted book: The Lord of the Rings
+2025-04-18 15:40:26,629 - book_db_logger - INFO - Inserted book: The Lord of the Rings
+2025-04-18 15:40:26,632 - book_db_logger - DEBUG - Successfully inserted book: Crime and Punishment
+2025-04-18 15:40:26,632 - book_db_logger - INFO - Inserted book: Crime and Punishment
+2025-04-18 15:40:26,635 - book_db_logger - DEBUG - Successfully inserted book: The Brothers Karamazov
+2025-04-18 15:40:26,635 - book_db_logger - INFO - Inserted book: The Brothers Karamazov
+2025-04-18 15:40:26,638 - book_db_logger - DEBUG - Successfully inserted book: One Hundred Years of Solitude
+2025-04-18 15:40:26,638 - book_db_logger - INFO - Inserted book: One Hundred Years of Solitude
+2025-04-18 15:40:26,642 - book_db_logger - DEBUG - Successfully inserted book: The Alchemist
+2025-04-18 15:40:26,642 - book_db_logger - INFO - Inserted book: The Alchemist
+2025-04-18 15:40:26,645 - book_db_logger - DEBUG - Successfully inserted book: The Kite Runner
+2025-04-18 15:40:26,645 - book_db_logger - INFO - Inserted book: The Kite Runner
+2025-04-18 15:40:26,648 - book_db_logger - DEBUG - Successfully inserted book: The Book Thief
+2025-04-18 15:40:26,648 - book_db_logger - INFO - Inserted book: The Book Thief
+2025-04-18 15:40:26,651 - book_db_logger - DEBUG - Successfully inserted book: The Handmaid's Tale
+2025-04-18 15:40:26,651 - book_db_logger - INFO - Inserted book: The Handmaid's Tale
+2025-04-18 15:40:26,656 - book_db_logger - DEBUG - Successfully inserted book: The Road
+2025-04-18 15:40:26,656 - book_db_logger - INFO - Inserted book: The Road
+2025-04-18 15:40:26,660 - book_db_logger - DEBUG - Successfully inserted book: The Name of the Wind
+2025-04-18 15:40:26,660 - book_db_logger - INFO - Inserted book: The Name of the Wind
+2025-04-18 15:40:26,663 - book_db_logger - DEBUG - Successfully inserted book: The Night Circus
+2025-04-18 15:40:26,663 - book_db_logger - INFO - Inserted book: The Night Circus
+2025-04-18 15:40:26,667 - book_db_logger - DEBUG - Successfully inserted book: The Goldfinch
+2025-04-18 15:40:26,667 - book_db_logger - INFO - Inserted book: The Goldfinch
+2025-04-18 15:40:26,671 - book_db_logger - DEBUG - Successfully inserted book: The Martian
+2025-04-18 15:40:26,671 - book_db_logger - INFO - Inserted book: The Martian
+2025-04-18 15:40:26,675 - book_db_logger - DEBUG - Successfully inserted book: The Silent Patient
+2025-04-18 15:40:26,675 - book_db_logger - INFO - Inserted book: The Silent Patient
+2025-04-18 15:40:26,679 - book_db_logger - DEBUG - Successfully inserted book: Norwegian Wood
+2025-04-18 15:40:26,679 - book_db_logger - INFO - Inserted book: Norwegian Wood
+2025-04-18 15:40:26,682 - book_db_logger - DEBUG - Successfully inserted book: The Wind-Up Bird Chronicle
+2025-04-18 15:40:26,682 - book_db_logger - INFO - Inserted book: The Wind-Up Bird Chronicle
+2025-04-18 15:40:26,686 - book_db_logger - DEBUG - Successfully inserted book: The Shadow of the Wind
+2025-04-18 15:40:26,686 - book_db_logger - INFO - Inserted book: The Shadow of the Wind
+2025-04-18 15:40:26,689 - book_db_logger - DEBUG - Successfully inserted book: The Pillars of the Earth
+2025-04-18 15:40:26,689 - book_db_logger - INFO - Inserted book: The Pillars of the Earth
+2025-04-18 15:40:26,693 - book_db_logger - DEBUG - Successfully inserted book: The Girl with the Dragon Tattoo
+2025-04-18 15:40:26,693 - book_db_logger - INFO - Inserted book: The Girl with the Dragon Tattoo
+2025-04-18 15:40:26,696 - book_db_logger - DEBUG - Successfully inserted book: The Da Vinci Code
+2025-04-18 15:40:26,696 - book_db_logger - INFO - Inserted book: The Da Vinci Code
+2025-04-18 15:40:26,699 - book_db_logger - DEBUG - Successfully inserted book: The Help
+2025-04-18 15:40:26,699 - book_db_logger - INFO - Inserted book: The Help
+2025-04-18 15:40:26,703 - book_db_logger - DEBUG - Successfully inserted book: The Time Traveler's Wife
+2025-04-18 15:40:26,703 - book_db_logger - INFO - Inserted book: The Time Traveler's Wife
+2025-04-18 15:40:26,706 - book_db_logger - DEBUG - Successfully inserted book: The Secret History
+2025-04-18 15:40:26,706 - book_db_logger - INFO - Inserted book: The Secret History
+2025-04-18 15:40:26,709 - book_db_logger - DEBUG - Successfully inserted book: The Song of Achilles
+2025-04-18 15:40:26,709 - book_db_logger - INFO - Inserted book: The Song of Achilles
+2025-04-18 15:40:26,709 - book_db_logger - INFO - Querying database for all books
+2025-04-18 15:40:26,710 - book_db_logger - INFO - 
+Found 30 books in database:
+2025-04-18 15:40:26,710 - book_db_logger - INFO - ID: 1, Title: The Great Gatsby, Author: F. Scott Fitzgerald
+2025-04-18 15:40:26,710 - book_db_logger - INFO - ID: 2, Title: 1984, Author: George Orwell
+2025-04-18 15:40:26,710 - book_db_logger - INFO - ID: 3, Title: To Kill a Mockingbird, Author: Harper Lee
+2025-04-18 15:40:26,710 - book_db_logger - INFO - ID: 4, Title: Pride and Prejudice, Author: Jane Austen
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 5, Title: The Hobbit, Author: J.R.R. Tolkien
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 6, Title: The Catcher in the Rye, Author: J.D. Salinger
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 7, Title: The Lord of the Rings, Author: J.R.R. Tolkien
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 8, Title: Crime and Punishment, Author: Fyodor Dostoevsky
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 9, Title: The Brothers Karamazov, Author: Fyodor Dostoevsky
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 10, Title: One Hundred Years of Solitude, Author: Gabriel García Márquez
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 11, Title: The Alchemist, Author: Paulo Coelho
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 12, Title: The Kite Runner, Author: Khaled Hosseini
+2025-04-18 15:40:26,711 - book_db_logger - INFO - ID: 13, Title: The Book Thief, Author: Markus Zusak
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 14, Title: The Handmaid's Tale, Author: Margaret Atwood
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 15, Title: The Road, Author: Cormac McCarthy
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 16, Title: The Name of the Wind, Author: Patrick Rothfuss
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 17, Title: The Night Circus, Author: Erin Morgenstern
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 18, Title: The Goldfinch, Author: Donna Tartt
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 19, Title: The Martian, Author: Andy Weir
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 20, Title: The Silent Patient, Author: Alex Michaelides
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 21, Title: Norwegian Wood, Author: Haruki Murakami
+2025-04-18 15:40:26,712 - book_db_logger - INFO - ID: 22, Title: The Wind-Up Bird Chronicle, Author: Haruki Murakami
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 23, Title: The Shadow of the Wind, Author: Carlos Ruiz Zafón
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 24, Title: The Pillars of the Earth, Author: Ken Follett
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 25, Title: The Girl with the Dragon Tattoo, Author: Stieg Larsson
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 26, Title: The Da Vinci Code, Author: Dan Brown
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 27, Title: The Help, Author: Kathryn Stockett
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 28, Title: The Time Traveler's Wife, Author: Audrey Niffenegger
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 29, Title: The Secret History, Author: Donna Tartt
+2025-04-18 15:40:26,713 - book_db_logger - INFO - ID: 30, Title: The Song of Achilles, Author: Madeline Miller
+2025-04-18 15:40:26,714 - book_db_logger - INFO - Database connection closed

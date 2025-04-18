@@ -1,0 +1,69 @@
+2025-04-18 15:43:27,009 - book_db_logger - INFO - Starting JSON data import process
+2025-04-18 15:43:27,010 - book_db_logger - INFO - JSON data loaded successfully - Found 30 books
+2025-04-18 15:43:27,011 - book_db_logger - INFO - Establishing database connection
+2025-04-18 15:43:27,012 - book_db_logger - INFO - Initializing database schema
+2025-04-18 15:43:27,013 - book_db_logger - INFO - Database table 'books' created successfully
+2025-04-18 15:43:27,013 - book_db_logger - INFO - Beginning book insertion process
+2025-04-18 15:43:27,017 - book_db_logger - DEBUG - Book inserted successfully - ID: 1, Title: The Great Gatsby, Author: F. Scott Fitzgerald
+2025-04-18 15:43:27,021 - book_db_logger - DEBUG - Book inserted successfully - ID: 2, Title: 1984, Author: George Orwell
+2025-04-18 15:43:27,024 - book_db_logger - DEBUG - Book inserted successfully - ID: 3, Title: To Kill a Mockingbird, Author: Harper Lee
+2025-04-18 15:43:27,028 - book_db_logger - DEBUG - Book inserted successfully - ID: 4, Title: Pride and Prejudice, Author: Jane Austen
+2025-04-18 15:43:27,031 - book_db_logger - DEBUG - Book inserted successfully - ID: 5, Title: The Hobbit, Author: J.R.R. Tolkien
+2025-04-18 15:43:27,034 - book_db_logger - DEBUG - Book inserted successfully - ID: 6, Title: The Catcher in the Rye, Author: J.D. Salinger
+2025-04-18 15:43:27,038 - book_db_logger - DEBUG - Book inserted successfully - ID: 7, Title: The Lord of the Rings, Author: J.R.R. Tolkien
+2025-04-18 15:43:27,042 - book_db_logger - DEBUG - Book inserted successfully - ID: 8, Title: Crime and Punishment, Author: Fyodor Dostoevsky
+2025-04-18 15:43:27,045 - book_db_logger - DEBUG - Book inserted successfully - ID: 9, Title: The Brothers Karamazov, Author: Fyodor Dostoevsky
+2025-04-18 15:43:27,048 - book_db_logger - DEBUG - Book inserted successfully - ID: 10, Title: One Hundred Years of Solitude, Author: Gabriel García Márquez
+2025-04-18 15:43:27,051 - book_db_logger - DEBUG - Book inserted successfully - ID: 11, Title: The Alchemist, Author: Paulo Coelho
+2025-04-18 15:43:27,055 - book_db_logger - DEBUG - Book inserted successfully - ID: 12, Title: The Kite Runner, Author: Khaled Hosseini
+2025-04-18 15:43:27,058 - book_db_logger - DEBUG - Book inserted successfully - ID: 13, Title: The Book Thief, Author: Markus Zusak
+2025-04-18 15:43:27,061 - book_db_logger - DEBUG - Book inserted successfully - ID: 14, Title: The Handmaid's Tale, Author: Margaret Atwood
+2025-04-18 15:43:27,065 - book_db_logger - DEBUG - Book inserted successfully - ID: 15, Title: The Road, Author: Cormac McCarthy
+2025-04-18 15:43:27,068 - book_db_logger - DEBUG - Book inserted successfully - ID: 16, Title: The Name of the Wind, Author: Patrick Rothfuss
+2025-04-18 15:43:27,071 - book_db_logger - DEBUG - Book inserted successfully - ID: 17, Title: The Night Circus, Author: Erin Morgenstern
+2025-04-18 15:43:27,075 - book_db_logger - DEBUG - Book inserted successfully - ID: 18, Title: The Goldfinch, Author: Donna Tartt
+2025-04-18 15:43:27,078 - book_db_logger - DEBUG - Book inserted successfully - ID: 19, Title: The Martian, Author: Andy Weir
+2025-04-18 15:43:27,081 - book_db_logger - DEBUG - Book inserted successfully - ID: 20, Title: The Silent Patient, Author: Alex Michaelides
+2025-04-18 15:43:27,085 - book_db_logger - DEBUG - Book inserted successfully - ID: 21, Title: Norwegian Wood, Author: Haruki Murakami
+2025-04-18 15:43:27,088 - book_db_logger - DEBUG - Book inserted successfully - ID: 22, Title: The Wind-Up Bird Chronicle, Author: Haruki Murakami
+2025-04-18 15:43:27,091 - book_db_logger - DEBUG - Book inserted successfully - ID: 23, Title: The Shadow of the Wind, Author: Carlos Ruiz Zafón
+2025-04-18 15:43:27,094 - book_db_logger - DEBUG - Book inserted successfully - ID: 24, Title: The Pillars of the Earth, Author: Ken Follett
+2025-04-18 15:43:27,096 - book_db_logger - DEBUG - Book inserted successfully - ID: 25, Title: The Girl with the Dragon Tattoo, Author: Stieg Larsson
+2025-04-18 15:43:27,099 - book_db_logger - DEBUG - Book inserted successfully - ID: 26, Title: The Da Vinci Code, Author: Dan Brown
+2025-04-18 15:43:27,102 - book_db_logger - DEBUG - Book inserted successfully - ID: 27, Title: The Help, Author: Kathryn Stockett
+2025-04-18 15:43:27,105 - book_db_logger - DEBUG - Book inserted successfully - ID: 28, Title: The Time Traveler's Wife, Author: Audrey Niffenegger
+2025-04-18 15:43:27,108 - book_db_logger - DEBUG - Book inserted successfully - ID: 29, Title: The Secret History, Author: Donna Tartt
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Book inserted successfully - ID: 30, Title: The Song of Achilles, Author: Madeline Miller
+2025-04-18 15:43:27,111 - book_db_logger - INFO - Querying database for verification
+2025-04-18 15:43:27,111 - book_db_logger - INFO - Database verification complete - Total books in database: 30
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 1, Title: The Great Gatsby, Author: F. Scott Fitzgerald
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 2, Title: 1984, Author: George Orwell
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 3, Title: To Kill a Mockingbird, Author: Harper Lee
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 4, Title: Pride and Prejudice, Author: Jane Austen
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 5, Title: The Hobbit, Author: J.R.R. Tolkien
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 6, Title: The Catcher in the Rye, Author: J.D. Salinger
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 7, Title: The Lord of the Rings, Author: J.R.R. Tolkien
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 8, Title: Crime and Punishment, Author: Fyodor Dostoevsky
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 9, Title: The Brothers Karamazov, Author: Fyodor Dostoevsky
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 10, Title: One Hundred Years of Solitude, Author: Gabriel García Márquez
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 11, Title: The Alchemist, Author: Paulo Coelho
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 12, Title: The Kite Runner, Author: Khaled Hosseini
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 13, Title: The Book Thief, Author: Markus Zusak
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 14, Title: The Handmaid's Tale, Author: Margaret Atwood
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 15, Title: The Road, Author: Cormac McCarthy
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 16, Title: The Name of the Wind, Author: Patrick Rothfuss
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 17, Title: The Night Circus, Author: Erin Morgenstern
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 18, Title: The Goldfinch, Author: Donna Tartt
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 19, Title: The Martian, Author: Andy Weir
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 20, Title: The Silent Patient, Author: Alex Michaelides
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 21, Title: Norwegian Wood, Author: Haruki Murakami
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 22, Title: The Wind-Up Bird Chronicle, Author: Haruki Murakami
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 23, Title: The Shadow of the Wind, Author: Carlos Ruiz Zafón
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 24, Title: The Pillars of the Earth, Author: Ken Follett
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 25, Title: The Girl with the Dragon Tattoo, Author: Stieg Larsson
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 26, Title: The Da Vinci Code, Author: Dan Brown
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 27, Title: The Help, Author: Kathryn Stockett
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 28, Title: The Time Traveler's Wife, Author: Audrey Niffenegger
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 29, Title: The Secret History, Author: Donna Tartt
+2025-04-18 15:43:27,111 - book_db_logger - DEBUG - Database entry - ID: 30, Title: The Song of Achilles, Author: Madeline Miller
+2025-04-18 15:43:27,112 - book_db_logger - INFO - Database connection closed successfully
